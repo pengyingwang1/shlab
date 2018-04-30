@@ -1,2 +1,2 @@
 # shlab
-shell lab csci 2400
+shlab csci 2400
