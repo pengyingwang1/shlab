@@ -1,2 +1,2 @@
 # shlab
-shlab csci 2400
+Shell Lab - CSCI 2400 - Computer Systems
